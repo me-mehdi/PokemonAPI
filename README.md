@@ -1,4 +1,5 @@
 PokemonAPI
+
 PokemonAPI is a simple Android app that allows users to search for information about different Pokemon.
 The app is built using Java and the Android Studio development environment, and it uses the PokeAPI to fetch data about Pokemon.
 
